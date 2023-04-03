@@ -34,9 +34,22 @@ header {
 .highlight {
     background-color: yellow;
 }
+
+#tab-head{
+    background-color:  rgb(0, 145, 255);
+    color: white;
+}
+
+.even-row {
+    background-color: aqua;
+}
 /* FINE CLASSI MAIN */
 
 /* FOOTER */
+#ad-text {
+    color: gray
+}
+
 #ad1 {
     background-image: url(../img/graph.jpg);
     width: 100px;
