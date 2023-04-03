@@ -9,7 +9,6 @@
 header {
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
-    background-repeat: repeat;    
 }
 
 #logo1 {
@@ -35,13 +34,26 @@ header {
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+  }
+
+#col1, #col2{
+    width: 25%;
+}
+
 #tab-head{
-    background-color:  rgb(0, 145, 255);
+    background-color:  #20A9E5;
     color: white;
 }
 
 .even-row {
-    background-color: aqua;
+    background-color: #B1E5F2;
 }
 /* FINE CLASSI MAIN */
 
